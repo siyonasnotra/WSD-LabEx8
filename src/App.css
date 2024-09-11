@@ -1,0 +1,13 @@
+.card-content {
+    text-align: center;
+  }
+  
+  .card-image img {
+    max-height: 250px;
+    object-fit: cover;
+  }
+  
+  .button {
+    margin-top: 15px;
+  }
+  
